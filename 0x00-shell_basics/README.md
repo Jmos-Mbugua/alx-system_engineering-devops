@@ -7,3 +7,4 @@ Add command to list more files
 Add command to display more contents
 Add a move script
 rmdir deletes a directory
+cd .. to move to previous directory
